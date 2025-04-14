@@ -7,7 +7,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10889387
     code: https://github.com/noobasuna/au-sticker
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./icassp25.txt
     notes: Oral Presentation
     image: ./assets/img/posthoc.png
     
@@ -17,7 +17,7 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10447476
     #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./icassp24.txt
     image: ./assets/img/causally.png
     
   - title: "Unbiased Decision-Making Framework in Long-Video Macro & Micro-Expression Spotting"
@@ -27,7 +27,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10317342
     #code: https://github.com/noobasuna/au-sticker
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./apsipa23.txt
     notes: Oral Presentation
     image: ./assets/img/unbiased.png
 
