@@ -14,6 +14,7 @@ I am a PhD student at Monash University Malaysia. I graduated from Xidian Univer
 ## News
 
 - **[Dec. 2024]** Our paper about securing emotional privacy is accepted to ICASSP 2025.
+- **[Feb. 2024]** Lab visit at Sugano Lab, UTokyo. Funded by Monash PhD Global Mobility Scheme.
 - **[Dec. 2023]** Our paper about causal inference in micro-expression is accepted to ICASSP 2024.
 - **[Aug. 2023]** Our paper about mitigating bias of facial expressions is accepted to APSIPA ASC 2023.
 
