@@ -3,9 +3,9 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></a></li>
-  <li><autocolor>International Conference on Telecommunication Technologies (ICTT) 2024</autocolor></a></li>
-  <li><autocolor>International Symposium on Biomedical Imaging (ISBI) 2024</autocolor></a></li>
+  <li><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></li>
+  <li><autocolor>International Conference on Telecommunication Technologies (ICTT) 2024</autocolor></li>
+  <li><autocolor>International Symposium on Biomedical Imaging (ISBI) 2024</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Talk</h4>
