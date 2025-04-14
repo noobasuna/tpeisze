@@ -31,10 +31,15 @@ Also, thanks to Monash for supporting all of my conference expenses throughout m
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;" class="instagram-media-container">
   
-  <!-- Drone Reel -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;" class="media-container">
+
+  <!-- Instagram Reel -->
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14"></blockquote>
-  
+
   <!-- Conference Sneak Peek -->
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DIO0MZJTYLxa0xo7Mx7BY2W7j6S5HxhJ1JXHxg0/?img_index=1" data-instgrm-version="14"></blockquote>
+  <img src="conference.jpg" alt="Your description" style="max-width: 320px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+
+</div>
+
 
 </div>
