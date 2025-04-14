@@ -23,6 +23,10 @@ I am a PhD student at Monash University Malaysia, supervised by Professor Raphae
 {% include_relative _includes/services.md %}
 
 ## Check us out in Instagram reels! 
+We played and coded DJI drones to recognize our faces and hand gestures with machine-learning algorithms. 
+In our lab, we have 20+ DJI Tello drones, a DJI FPV 4K Camera drone (with VR Goggles and hand gear) and etc.
+Please contact us if you are also interested in human-drone interaction, we might have some fun workshops together. 
+
 <div class="instagram-reels-container">
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14">
     <div style="padding:16px;">
