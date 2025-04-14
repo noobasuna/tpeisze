@@ -28,18 +28,17 @@ In our lab, we have 20+ DJI Tello drones, a DJI FPV 4K Camera drone (with VR Gog
 Please contact us if you are also interested in human-drone interaction, we might have some fun workshops together. 
 
 Also, thanks to Monash for supporting all of my conference expenses throughout my PhD studies in Korea, India and Taiwan!! Million thanks!
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;" class="instagram-media-container">
   
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;" class="media-container">
 
   <!-- Instagram Reel -->
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14"></blockquote>
+  <div style="flex: 1 1 320px; max-width: 320px;">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14" style="width: 100%;"></blockquote>
+  </div>
 
   <!-- Conference Sneak Peek -->
-  <img src="conference.png" alt="Conference Sneak Peek" style="max-width: 320px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-
-</div>
-
+  <div style="flex: 1 1 320px; max-width: 320px;">
+    <img src="conference.png" alt="Conference Sneak Peek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
 
 </div>
