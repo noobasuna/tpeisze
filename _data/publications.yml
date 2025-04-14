@@ -1,7 +1,7 @@
 main:
 
   - title: "Post-Hoc Adversarial Stickers Against Micro-Expression Leakage"
-    authors: <strong>,P. -S. Tan*</strong>, et al. (*Corresponding authors)
+    authors: <strong>P. -S. Tan*</strong>, et al. (*Corresponding authors)
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/10889387
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/posthoc.png
     
   - title: "Causally uncovering bias in video micro-expression recognition"
-    authors: <strong>,P. -S. Tan*</strong>, et al. (*Corresponding authors)
+    authors: <strong>P. -S. Tan*</strong>, et al. (*Corresponding authors)
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10447476
@@ -21,7 +21,7 @@ main:
     image: ./assets/img/causally.png
     
   - title: "Unbiased Decision-Making Framework in Long-Video Macro & Micro-Expression Spotting"
-    authors: <strong>,P. -S. Tan</strong>, et al. 
+    authors: <strong>P. -S. Tan</strong>, et al. 
     conference_short: APSIPA
     conference: Asia Pacific Signal and Information Processing Association Annual Summit and Conference <strong>(APSIPA ASC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10317342
