@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student at Monash University Malaysia. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Affective computing, Counterfactual explanation generation
+- **Ethics AI:** Fairness, Causal Inference
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2024]** Our paper about securing emotional privacy is accepted to ICASSP 2025.
+- **[Dec. 2023]** Our paper about causal inference in micro-expression is accepted to ICASSP 2024.
+- **[Aug. 2023]** Our paper about mitigating bias of facial expressions is accepted to APSIPA ASC 2023.
 
 {% include_relative _includes/publications.md %}
 
