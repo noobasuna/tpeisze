@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10447476,
+  author={Tan, Pei-Sze and Rajanala, Sailaja and Pal, Arghya and Leong, Shu-Min and Phan, Raphaël C.-W. and Fang Ong, Huey},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Causally Uncovering Bias in Video Micro-Expression Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={5790-5794},
+  keywords={Training;Measurement;Deep learning;Speech recognition;Signal processing;Data collection;Data models;Microexpression recognition;fairness;causality;counterfactual;debiasing},
+  doi={10.1109/ICASSP48485.2024.10447476}}

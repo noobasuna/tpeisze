@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10317342,
+  author={Tan, Pei-Sze and Rajanala, Sailaja and Pal, Arghya and Phan, Raphaël C.-W. and Ong, Huey-Fang},
+  booktitle={2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}, 
+  title={Unbiased Decision-Making Framework in Long-Video Macro & Micro-Expression Spotting}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={84-89},
+  keywords={Deep learning;Training;Graphical models;Computational modeling;Decision making;Training data;Information processing},
+  doi={10.1109/APSIPAASC58517.2023.10317342}}
