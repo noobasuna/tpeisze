@@ -1,3 +1,9 @@
+## Book Chapter
+<h4 style="margin:0 10px 0;">Book Chapter</h4>
+<ul style="margin:0 0 20px;">
+  <li><autocolor>Y.-F. Tan, <strong>P.-S. Tan</strong> (2025). AI for healthcare: Revolutionizing public wellness in smart cities. In C. Tee, T. S. Ong, M. S. Sayeed (Eds.), The smart life revolution: Embracing AI and IoT in society (1st ed., pp. 135-152). CRC Press. ISBN: 9781032834085</autocolor></li>
+</ul>
+
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
