@@ -33,12 +33,12 @@ Also, thanks to Monash for supporting all of my conference expenses throughout m
 
   <!-- Instagram Reel -->
   <div style="flex: 1 1 320px; max-width: 320px;">
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14" style="width: 80%;"></blockquote>
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14" style="width: 45%;"></blockquote>
   </div>
 
   <!-- Conference Sneak Peek -->
   <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="conference.png" alt="Conference Sneak Peek" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="conference.png" alt="Conference Sneak Peek" style="width: 45%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
   </div>
 
 </div>
