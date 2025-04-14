@@ -37,7 +37,7 @@ Also, thanks to Monash for supporting all of my conference expenses throughout m
   <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C3CgQROvK5g/?hl=en" data-instgrm-version="14"></blockquote>
 
   <!-- Conference Sneak Peek -->
-  <img src="conference.jpg" alt="Conference Sneak Peek" style="max-width: 320px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  <img src="conference.png" alt="Conference Sneak Peek" style="max-width: 320px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
 
 </div>
 
