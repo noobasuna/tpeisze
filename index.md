@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. 
+I am a PhD student at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Klang kid—Bak Kut Teh is life.
 
 ## Research Interests
 
