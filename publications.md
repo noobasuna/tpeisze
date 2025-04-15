@@ -2,6 +2,8 @@
 
 Here are my recent publications:
 
+{% include publications.md %}
+
 ## Conference Papers
 
 - **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Phan, Raphaël C-W, Ong, Huey-Fang. (2023).  
