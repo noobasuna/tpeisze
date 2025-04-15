@@ -8,7 +8,7 @@ I am a PhD student at Monash University Malaysia, supervised by Professor Raphae
 
 ## Research Interests
 
-- **Computer Vision:** Affective computing, Counterfactual explanation generation
+- **Computer Vision:** Affective computing, Counterfactual Explanation Generation
 - **Ethics AI:** Fairness, Causal Inference
 
 ## News
