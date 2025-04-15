@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Klang raised, Bak Kut Teh lover. IC says Banting—no complaints, both got good vibes.
+I am a PhD student at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Malaysian born and raised. Grew up in Klang (aka the land of Bak Kut Teh dreams). My IC says Banting—just a chill little town nearby. Honestly, I claim both.
 
 ## Research Interests
 
