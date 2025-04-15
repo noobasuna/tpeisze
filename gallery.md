@@ -4,17 +4,14 @@ layout: homepage
 
 # 📸 Gallery
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1 1 200px;">
-    ![ICASSP@HICC](./conference.png)
-  </div>
-  <div style="flex: 1 1 200px;">
-    ![Image 2](path/to/image2.jpg)
-  </div>
-  <div style="flex: 1 1 200px;">
-    ![Image 3](path/to/image3.jpg)
-  </div>
-  <div style="flex: 1 1 200px;">
-    ![Image 4](path/to/image4.jpg)
-  </div>
-</div>
+## Image 1
+![ICASSP@HICC](./conference.png)
+
+## Image 2
+![Image 2 Description](path/to/image2.jpg)
+
+## Image 3
+![Image 3 Description](path/to/image3.jpg)
+
+## Image 4
+![Image 4 Description](path/to/image4.jpg)
