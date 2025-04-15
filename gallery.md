@@ -9,12 +9,12 @@ layout: homepage
    <img src="./conference.png" alt="Conference Pic" style="max-width: 300px;">
   </div>
   <div style="flex: 1 1 200px;">
-    ![Image 2](path/to/image2.jpg)
+   <img src="./conference.png" alt="Conference Pic" style="max-width: 300px;">
   </div>
   <div style="flex: 1 1 200px;">
-    ![Image 3](path/to/image3.jpg)
+   <img src="./conference.png" alt="Conference Pic" style="max-width: 300px;">
   </div>
   <div style="flex: 1 1 200px;">
-    ![Image 4](path/to/image4.jpg)
+   <img src="./conference.png" alt="Conference Pic" style="max-width: 300px;">
   </div>
 </div>
