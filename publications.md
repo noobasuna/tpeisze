@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # Publications
 
 Here are my recent publications:
