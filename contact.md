@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 ## Check us out in Instagram reels! 
 We played and coded DJI drones to recognize our faces and hand gestures with machine-learning algorithms. 
 In our lab, we have 20+ DJI Tello drones, a DJI FPV 4K Camera drone (with VR Goggles and hand gear) and etc.
