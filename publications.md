@@ -20,6 +20,10 @@ Here are my recent publications:
   *Post-Hoc Adversarial Stickers Against Micro-Expression Leakage.*  
   ICASSP 2025, pages 1-5.
 
+- **Tan, Pei-Sze**, Adamu Muhammad Buhari. (2025).  
+  *Real-Time Drone Surveillance for Smart Playground Supervision.*  
+  Ubicomp Adjunct'25.
+
 ## Preprint Articles
 
 - Tan, Yee-Fan, Liow, Jun Lin, **Tan, Pei-Sze**, Noman, Fuad, Phan, Raphael C-W, Ombao, Hernando, Ting, Chee-Ming. (2025).  
