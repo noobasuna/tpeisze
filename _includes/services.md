@@ -11,9 +11,12 @@
   <li><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></li>
   <li><autocolor>International Conference on Telecommunication Technologies (ICTT) 2024</autocolor></li>
   <li><autocolor>International Symposium on Biomedical Imaging (ISBI) 2024</autocolor></li>
+  <li><autocolor>British Machine Vision Conference (BMVC) 2025</autocolor></li>
+  <li><autocolor>Asian Conference on Machine Learning (ACML) 2025</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Talk</h4>
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.bilibili.com/video/BV1fs421g7Q8/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b9d19796026bb3810b43c7050d20b526"><autocolor>China Society of Image and Graphics (CSIG) Micro-Expression Workshop, Institute of Psychology, Chinese Academy of Sciences (Remote) - Invited to present my publications on fairness and causality in micro-expression machine learning models</autocolor></a></li>
+    <li><a href="https://www.bilibili.com/video/BV1fs421g7Q8/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b9d19796026bb3810b43c7050d20b526"><autocolor>China Society of Image and Graphics (CSIG) Micro-Expression Workshop, Institute of Psychology, Chinese Academy of Sciences (Remote) - Invited to present my publications on ICASSP 2025. </autocolor></a></li>
 </ul>
