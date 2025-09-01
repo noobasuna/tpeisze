@@ -24,6 +24,14 @@ Here are my recent publications:
   *Real-Time Drone Surveillance for Smart Playground Supervision.*  
   Ubicomp Adjunct'25.
 
+- **Tan, Pei-Sze**, Rajanala, Sailaja, Phan, Raphaël C-W. (2025).
+  *Disentangle Class Imbalance in Micro-Expression Recognition with Causal Structure Learning.*
+  TENCON 2025.
+  
+- **Tan, Pei-Sze**, Karen, Koh, S. Rajanala, A. Pal, R. C.-W. Phan, et al. (2025)
+  *Res-SH: Unbiased Residual Learning for Self-Healing Interface Toughness Prediction with Limited Data.*
+  TENCON 2025.
+
 ## Preprint Articles
 
 - Tan, Yee-Fan, Liow, Jun Lin, **Tan, Pei-Sze**, Noman, Fuad, Phan, Raphael C-W, Ombao, Hernando, Ting, Chee-Ming. (2025).  
