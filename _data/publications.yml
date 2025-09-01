@@ -1,4 +1,15 @@
 main:
+  - title: "Res-SH: Unbiased Residual Learning for Self-Healing Interface Toughness Prediction with Limited Data"
+    authors: <strong>P. -S. Tan</strong>, Karen Koh and et al.
+    conference_short: TENCON
+    conference: IEEE Region 10 Conference <strong>(TENCON)</strong>, 2025.
+    # pdf: https://ieeexplore.ieee.org/document/10889387
+    code: https://github.com/noobasuna/res-sh
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: ./icassp25.txt
+    #notes: Poster Presentation
+    image: ./assets/img/ressh.png
+    
   - title: "Real-Time Drone Surveillance for Smart Playground Supervision"
     authors: <strong>P. -S. Tan</strong>, Adamu Muhammad Buhari*. (*Corresponding authors)
     conference_short: Ubicomp
