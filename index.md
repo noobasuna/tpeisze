@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Malaysian born and raised. Grew up in Klang (aka Bak Kut Teh land). IC says Banting—no complaints, both got good vibes.
+I am a Postdoctoral Researcher in National Institute of Informatics, Japan. Also, I studied my dotoral studies at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Malaysian born and raised. Grew up in Klang (aka Bak Kut Teh land). IC says Banting—no complaints, both got good vibes.
 
 ## Research Interests
 
@@ -12,6 +12,7 @@ I am a PhD student at Monash University Malaysia, supervised by Professor Raphae
 - **Ethics AI:** Fairness, Causal Inference
 
 ## News
+- **[Dec. 2025]** Our papers on causal-graph driven ME spotting model are accepted to Pattern Recognition Letters.
 - **[Aug. 2025]** Our papers on self-healing materials are accepted to TENCON 2025.
 - **[June. 2025]** Our paper about drone surveillance is accepted to Ubicomp 2025 poster track, and Internship at Academia Sinica, Dr Jer-Lai Kuo's lab. Funded by IIPP. 
 - **[Jan. 2025]** Our paper about generative models on fMRI data is accepted to ISBI 2025.
