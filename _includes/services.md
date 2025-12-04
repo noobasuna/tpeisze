@@ -13,7 +13,7 @@
   <li><autocolor>International Symposium on Biomedical Imaging (ISBI) - TPC </autocolor></li>
   <li><autocolor>British Machine Vision Conference (BMVC)</autocolor></li>
   <li><autocolor>Asian Conference on Machine Learning (ACML)</autocolor></li>
-  <li><autocolor>International Conference on Acoustic Speech and Signal Processing</autocolor></li>
+  <li><autocolor>International Conference on Acoustic Speech and Signal Processing (ICASSP)</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
