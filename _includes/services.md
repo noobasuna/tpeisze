@@ -8,11 +8,18 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></li>
-  <li><autocolor>International Conference on Telecommunication Technologies (ICTT) 2024</autocolor></li>
-  <li><autocolor>International Symposium on Biomedical Imaging (ISBI) 2024</autocolor></li>
-  <li><autocolor>British Machine Vision Conference (BMVC) 2025</autocolor></li>
-  <li><autocolor>Asian Conference on Machine Learning (ACML) 2025</autocolor></li>
+  <li><autocolor>ACM Multimedia (ACM MM)</autocolor></li>
+  <li><autocolor>International Conference on Telecommunication Technologies (ICTT)</autocolor></li>
+  <li><autocolor>International Symposium on Biomedical Imaging (ISBI) - TPC </autocolor></li>
+  <li><autocolor>British Machine Vision Conference (BMVC)</autocolor></li>
+  <li><autocolor>Asian Conference on Machine Learning (ACML)</autocolor></li>
+  <li><autocolor>International Conference on Acoustic Speech and Signal Processing</autocolor></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Multimedia Tools and Applications</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Workshop Talk</h4>
