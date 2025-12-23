@@ -8,7 +8,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./prl.txt
     notes: Open access
-    image: ./assets/img/prl.png
+    image: ./assets/img/image.png
     
   - title: "Res-SH: Unbiased Residual Learning for Self-Healing Interface Toughness Prediction with Limited Data"
     authors: <strong>P. -S. Tan</strong>, Karen Koh and et al.
