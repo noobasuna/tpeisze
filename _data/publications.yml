@@ -1,4 +1,15 @@
 main:
+  - title: "Causal-Ex: Causal graph-based micro and macro expression spotting"
+    authors: <strong>P. -S. Tan</strong> et al.
+    conference_short: PR-L
+    conference: Pattern Recognition Letters, Volume 200
+    pdf: https://www.sciencedirect.com/science/article/pii/S0167865525004027
+    code: https://github.com/noobasuna/causal_ex.git
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./prl.txt
+    notes: Open access
+    image: ./assets/img/prl.png
+    
   - title: "Res-SH: Unbiased Residual Learning for Self-Healing Interface Toughness Prediction with Limited Data"
     authors: <strong>P. -S. Tan</strong>, Karen Koh and et al.
     conference_short: TENCON
@@ -9,17 +20,6 @@ main:
     # bibtex: ./icassp25.txt
     #notes: Poster Presentation
     image: ./assets/img/ressh.png
-    
-  - title: "Real-Time Drone Surveillance for Smart Playground Supervision"
-    authors: <strong>P. -S. Tan</strong>, Adamu Muhammad Buhari*. (*Corresponding authors)
-    conference_short: Ubicomp
-    conference: UbiComp Companion <strong>(ISWC/Ubicomp)</strong>, 2025.
-    # pdf: https://ieeexplore.ieee.org/document/10889387
-    # code: https://github.com/noobasuna/au-sticker
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: ./icassp25.txt
-    notes: Poster Presentation
-    image: ./assets/img/dashboard_1.jpg
     
   - title: "Post-Hoc Adversarial Stickers Against Micro-Expression Leakage"
     authors: <strong>P. -S. Tan*</strong>, et al. (*Corresponding authors)
