@@ -18,7 +18,7 @@ main:
     code: https://github.com/noobasuna/res-sh
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: ./icassp25.txt
-    #notes: Poster Presentation
+    notes: Oral Presentation
     image: ./assets/img/ressh.png
     
   - title: "Post-Hoc Adversarial Stickers Against Micro-Expression Leakage"
@@ -39,6 +39,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10447476
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: ./icassp24.txt
+    notes: Poster Presentation
     image: ./assets/img/causally.png
     
   - title: "Unbiased Decision-Making Framework in Long-Video Macro & Micro-Expression Spotting"
@@ -60,6 +61,6 @@ main:
     #code: https://github.com/noobasuna/au-sticker
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #notes: Oral Presentation
+    notes: Poster Presentation
     image: ./assets/img/connectome.png
   
