@@ -12,9 +12,10 @@ I am a Postdoctoral Researcher in National Institute of Informatics, Japan. Also
 - **Ethics AI:** Fairness, Causal Inference
 
 ## News
-- **[Mar. 2026]** Our papers on facial counterfactual explanations are accepted to TMLR.
-- **[Dec. 2025]** Our papers on causal-graph driven ME spotting model are accepted to Pattern Recognition Letters.
-- **[Aug. 2025]** Our papers on self-healing materials are accepted to TENCON 2025.
+- **[Mar. 2026]** Our papers on facial counterfactual explanations is accepted to TMLR and deblurring segmentation on endoscopic images work is accepted to ICASSP 2026.
+- **[Jan. 2026]** Our paper on transparent multifunctional neuromorphic visual sensor is published in Advanced Functional Materials. 
+- **[Dec. 2025]** Our paper on causal-graph driven ME spotting model is accepted to Pattern Recognition Letters.
+- **[Aug. 2025]** Our papers on self-healing materials and fair micro-expression recognition are accepted to TENCON 2025.
 - **[Jun. 2025]** Internship at Academia Sinica, Dr Jer-Lai Kuo's lab. Funded by IIPP. 
 - **[Jan. 2025]** Our paper about generative models on fMRI data is accepted to ISBI 2025.
 - **[Dec. 2024]** Our paper about securing emotional privacy is accepted to ICASSP 2025.
