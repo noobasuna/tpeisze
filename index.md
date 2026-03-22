@@ -15,7 +15,7 @@ I am a Postdoctoral Researcher in Echizen Lab, National Institute of Informatics
 - **[Mar. 2026]** Our papers on facial counterfactual explanations is accepted to TMLR and deblurring segmentation on endoscopic images work is accepted to ICASSP 2026.
 - **[Jan. 2026]** Our paper on transparent multifunctional neuromorphic visual sensor is published in Advanced Functional Materials. 
 - **[Dec. 2025]** Our paper on causal-graph driven ME spotting model is accepted to Pattern Recognition Letters.
-- **[Nov. 2025]** Joining Echizen Lab, NII as Project Posdoc Researcher.
+- **[Nov. 2025]** Joining Echizen Lab, NII as Project Postdoc Researcher.
 - **[Aug. 2025]** Our papers on self-healing materials and fair micro-expression recognition are accepted to TENCON 2025.
 - **[Jun. 2025]** Internship at Academia Sinica, Dr Jer-Lai Kuo's lab. Funded by IIPP. 
 - **[Jan. 2025]** Our paper about generative models on fMRI data is accepted to ISBI 2025.
