@@ -8,7 +8,7 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./aies.txt
     notes: In Press
-    image: ./assets/img/aies.png
+    image: ./assets/img/gate.png
     
   - title: "Causal-Ex: Causal graph-based micro and macro expression spotting"
     authors: <strong>P. -S. Tan</strong> et al.
