@@ -1,4 +1,15 @@
 main:
+  - title: "Agentic Relationship Harm: Benchmarking and Gating Relational Manipulation in AI Agents"
+    authors: <strong>P. -S. Tan</strong> et al.
+    conference_short: AIES
+    conference: 9th AAAI Conference on AI, Ethics, and Society
+    pdf: https://arxiv.org/abs/2606.03271
+    #code: https://github.com/noobasuna/causal_ex.git
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./aies.txt
+    notes: In Press
+    image: ./assets/img/aies.png
+    
   - title: "Causal-Ex: Causal graph-based micro and macro expression spotting"
     authors: <strong>P. -S. Tan</strong> et al.
     conference_short: PR-L
