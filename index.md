@@ -8,10 +8,11 @@ I am a Postdoctoral Researcher in Echizen Lab, National Institute of Informatics
 
 ## Research Interests
 
+- **Ethics AI:** Human Relationship Harmfulness in Agentic AI, Fairness, Causal Inference
 - **Computer Vision:** Affective computing, Counterfactual Explanation Generation
-- **Ethics AI:** Fairness, Causal Inference
 
 ## News
+- **[July. 2026]** Our papers on agentic relationship harm is accepted to AIES 2026.
 - **[Mar. 2026]** Our papers on facial counterfactual explanations is accepted to TMLR and deblurring segmentation on endoscopic images work is accepted to ICASSP 2026.
 - **[Jan. 2026]** Our paper on transparent multifunctional neuromorphic visual sensor is published in Advanced Functional Materials. 
 - **[Dec. 2025]** Our paper on causal-graph driven ME spotting model is accepted to Pattern Recognition Letters.
