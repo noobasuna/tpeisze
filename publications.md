@@ -8,28 +8,36 @@ Here are my recent publications:
 
 ## Published Papers
 
-- **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Phan, Raphaël C-W, Ong, Huey-Fang. (2023).  
-  *Unbiased Decision-Making Framework in Long-Video Macro & Micro-Expression Spotting.*  
-  APSIPA ASC 2023, pages 84-89.
+* **Tan, Pei-Sze**, Igarashi, Tasuku, Echizen, Isao. (2026).
+  *Agentic Relationship Harm: Benchmarking and Gating Relational Manipulation in AI Agents.*
+  AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026). To appear.
 
-- **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Leong, Shu-Min, Phan, Raphaël C-W, Ong, Huey Fang. (2024).  
-  *Causally Uncovering Bias in Video Micro-Expression Recognition.*  
-  ICASSP 2024, pages 5790-5794.
+* Sun, M., Wu, Z., **Tan, Pei-Sze**, Lim, J. Y., Phan, R. C.-W., Leong, S. M. (2026).
+  *LiteUAV-DETR: Scale-Aware Feature Routing for Real-Time UAV Detection.*
+  British Machine Vision Conference (BMVC 2026).
 
-- **Tan, Pei-Sze**, Rajanala, Sailaja, Tan, Yee-Fan, Pal, Arghya, Tan, Chun-Ling, Phan, Raphaël C-W, Ong, Huey-Fang. (2025).  
-  *Post-Hoc Adversarial Stickers Against Micro-Expression Leakage.*  
-  ICASSP 2025, pages 1-5.
+* Wu, Z., Ou, W., Wu, Q., Sun, M., **Tan, Pei-Sze**, Fang, W., Phan, R. C.-W. (2026).
+  *Motion-Equivariant Pseudo-Video Augmentation: Video-Style Generalization from a Single Static Polyp Dataset.*
+  British Machine Vision Conference (BMVC 2026).
 
-- **Tan, Pei-Sze**, Rajanala, Sailaja, Phan, Raphaël C-W. (2025).
-  *Disentangle Class Imbalance in Micro-Expression Recognition with Causal Structure Learning.*
-  TENCON 2025.
-  
-- **Tan, Pei-Sze**, Karen, Koh, S. Rajanala, A. Pal, R. C.-W. Phan, et al. (2025)
-  *Res-SH: Unbiased Residual Learning for Self-Healing Interface Toughness Prediction with Limited Data.*
-  TENCON 2025.
+* Wu, Z., Ou, W., Zhang, L., **Tan, Pei-Sze**, Wu, D., Zhao, J., Fang, W., Phan, R. C.-W. (2026).
+  *DepthPolyp: Pseudo-Depth Guided Lightweight Segmentation for Real-Time Colonoscopy.*
+  International Conference on Pattern Recognition (ICPR 2026).
 
-- **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Phan, Raphaël C-W, Ong, Huey-Fang. (2025).  
-  *Causal-Ex: Causal Graph-based Micro and Macro Expression Spotting.*  
+* Wu, Z., Ou, W., **Tan, Pei-Sze**, Yang, J., Fang, W., Wang, Z., Phan, R. C.-W. (2026).
+  *ENDO-CAVER: Handling Fog, Blur and Glare in Endoscopic Images via Joint Deblurring-Segmentation.*
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
+
+* **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Phan, Raphaël C.-W., Ong, Huey-Fang. (2026).
+  *Facial Counterfactual Generation via Causal Mask-Guided Editing.*
+  Transactions on Machine Learning Research (TMLR).
+
+* Cheng, F., Zhang, B., Nan, Z., Zhang, M., **Tan, Pei-Sze**, Hao, Y., Hua, J., Ji, J., Wei, W., et al. (2026).
+  *Fully-Printed Transparent InGaO Neuromorphic Visual Systems for Solar-Blind Bichromatic In-Sensor Computing.*
+  Advanced Functional Materials, 36(33), e26509.
+
+* **Tan, Pei-Sze**, Rajanala, Sailaja, Pal, Arghya, Phan, Raphaël C-W, Ong, Huey-Fang. (2026).
+  *Causal-Ex: Causal Graph-based Micro and Macro Expression Spotting.*
   Pattern Recognition Letters.
 
 ## Book Chapter 
