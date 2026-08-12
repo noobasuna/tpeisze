@@ -16,7 +16,7 @@ I am a Postdoctoral Fellow in Echizen Lab, National Institute of Informatics, Ja
 - **[Aug. 2026]** A project on affect modelling for LLM is accepted to JSPS KAKENHI FY2026 Grants-in-Aid for Scientific Research (研究活動スタート支援) as main PI. 
 - **[July. 2026]** A first-authored on agentic relationship harm is accepted to AIES 2026 (22% acceptance rate @ 2026).
 - **[Apr. 2026]** A co-authored paper on efficient segmentation for real-time colonoscopy is accepted to ICPR 2026.
-- **[Mar. 2026]** A first-authored paper on facial counterfactual explanations is accepted to TMLR (Q2) and co-authored deblurring segmentation on endoscopic images work is accepted to ICASSP 2026.
+- **[Mar. 2026]** A first-authored paper on facial counterfactual explanations is accepted to TMLR and co-authored deblurring segmentation on endoscopic images work is accepted to ICASSP 2026.
 - **[Jan. 2026]** A co-authored paper on transparent multifunctional neuromorphic visual sensor is published in Advanced Functional Materials (Q1,IF 19.9).
 
 Before 2026
