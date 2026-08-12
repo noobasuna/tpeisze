@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Fellow in Echizen Lab, National Institute of Informatics, Japan. Also, I studied my dotoral studies at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. I interned at Huawei and Nokia for industry experience during my undergraduate period. Malaysian born and raised. Grew up in Klang (aka Bak Kut Teh land). IC says Banting—no complaints, both got good vibes.
+I am a Postdoctoral Fellow in Echizen Lab, National Institute of Informatics, Japan. Also, I studied my doctoral studies at Monash University Malaysia, supervised by Professor Raphael Phan, Dr Sailaja Rajanala and Dr Ong Huey Fang. I graduated from Xidian University in 2022 with a Bachelor's degree in Communication Engineering. Malaysian born and raised. Grew up in Klang (aka Bak Kut Teh land). IC says Banting—no complaints, both got good vibes.
 
 ## Research Interests
 
-- **Ethics AI:** Human Relationship Harmfulness in Agentic AI, Fairness, Causal Inference
+- **Ethics AI:** Agentic AI Safety, Fairness, Causal Inference
 - **Computer Vision:** Affective computing, Counterfactual Explanation Generation
 
 ## News
